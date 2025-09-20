@@ -15,6 +15,5 @@ public class Main {
      double Month2 = balancemonth1 * TAX_RATE / 12;
         System.out.println("Interest due for two months is: " + Month2);
 
-
     }
 }
